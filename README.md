@@ -1,4 +1,4 @@
-# SoundCloud-Artists-Dataset
+# SoundCloud-Artists
 The attached Dataset is available on Kaggle: https://www.kaggle.com/datasets/dataranch/soundcloud-artists
 
 Here I have tried to analyse this dataset by multiple aspects.
